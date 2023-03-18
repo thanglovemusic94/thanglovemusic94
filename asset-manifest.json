@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.db76a3b0.chunk.css",
-    "main.js": "/static/js/main.a8aca503.chunk.js",
-    "main.js.map": "/static/js/main.a8aca503.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a5042f6b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a5042f6b.js.map",
-    "static/css/2.d64471e2.chunk.css": "/static/css/2.d64471e2.chunk.css",
-    "static/js/2.0f07b985.chunk.js": "/static/js/2.0f07b985.chunk.js",
-    "static/js/2.0f07b985.chunk.js.map": "/static/js/2.0f07b985.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c0ac449a92ca8ec381319d7d32e36ab7.js": "/precache-manifest.c0ac449a92ca8ec381319d7d32e36ab7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.db76a3b0.chunk.css.map": "/static/css/main.db76a3b0.chunk.css.map",
-    "static/js/2.0f07b985.chunk.js.LICENSE.txt": "/static/js/2.0f07b985.chunk.js.LICENSE.txt"
+    "main.css": "/thanglovemusic94.github.io/static/css/main.db76a3b0.chunk.css",
+    "main.js": "/thanglovemusic94.github.io/static/js/main.91af90b5.chunk.js",
+    "main.js.map": "/thanglovemusic94.github.io/static/js/main.91af90b5.chunk.js.map",
+    "runtime-main.js": "/thanglovemusic94.github.io/static/js/runtime-main.606a06ad.js",
+    "runtime-main.js.map": "/thanglovemusic94.github.io/static/js/runtime-main.606a06ad.js.map",
+    "static/css/2.d64471e2.chunk.css": "/thanglovemusic94.github.io/static/css/2.d64471e2.chunk.css",
+    "static/js/2.0f07b985.chunk.js": "/thanglovemusic94.github.io/static/js/2.0f07b985.chunk.js",
+    "static/js/2.0f07b985.chunk.js.map": "/thanglovemusic94.github.io/static/js/2.0f07b985.chunk.js.map",
+    "index.html": "/thanglovemusic94.github.io/index.html",
+    "precache-manifest.42cfc045e8cff9fd80cbdfde1c3f04dd.js": "/thanglovemusic94.github.io/precache-manifest.42cfc045e8cff9fd80cbdfde1c3f04dd.js",
+    "service-worker.js": "/thanglovemusic94.github.io/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/thanglovemusic94.github.io/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db76a3b0.chunk.css.map": "/thanglovemusic94.github.io/static/css/main.db76a3b0.chunk.css.map",
+    "static/js/2.0f07b985.chunk.js.LICENSE.txt": "/thanglovemusic94.github.io/static/js/2.0f07b985.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5042f6b.js",
+    "static/js/runtime-main.606a06ad.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.0f07b985.chunk.js",
     "static/css/main.db76a3b0.chunk.css",
-    "static/js/main.a8aca503.chunk.js"
+    "static/js/main.91af90b5.chunk.js"
   ]
 }
